@@ -1,0 +1,15 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.0",
+        "rmoiseev/spyc": "^0.5.1",
+        "seasx/seas-logger": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "BORN\\": "born/",
+            "ARM\\": "arm/",
+            "FINGER\\": "finger/",
+            "YAML\\": "yaml/"
+        }
+    }
+}

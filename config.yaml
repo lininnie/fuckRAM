@@ -1,0 +1,18 @@
+---
+database:
+  s:f
+comm_config:
+  a: b
+btctrade:
+  secret_key:
+    public_key: 1hzyw-3it67-6yapm-514na-hcmd8-qs636-f4nf2
+    private_key: JFMuS-]GQ6e-nifv}-E%gak-A/2M*-f42@D-5y$QZ
+  trans_type:
+    - btc
+huobi:
+  secret_key:
+    access_key: bac3a881-5c6e33a7-08aba6ad-74a8c
+    secret_key: e9c815a6-03c5037f-39a2a9d6-c43d5
+  trans_type:
+    - btc
+...

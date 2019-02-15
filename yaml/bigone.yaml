@@ -1,0 +1,19 @@
+---
+database:
+  s:f
+secret_key:
+    public_key: mother
+    private_key: fucker
+trans_type: ETH-USDT
+#下单价格累加单位
+price_step: 0.001
+#下单币数量
+coin_amount: 0.04
+#主进程执行间隔 单位毫秒
+interval: 280
+
+pct: 0.00005
+
+vol: 10
+
+base_url: https://b1.run/api/v2/
